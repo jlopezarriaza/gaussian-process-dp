@@ -1,4 +1,4 @@
-# Multi-Objective Gaussian Process Dynamic Programmign
+# Multi-Objective Gaussian Process Dynamic Programming
 
 This is the primary implementation of multi-objective gaussian process dynamic programming.  In its current state the code is not completely general and was built primarily for the shiny app. The code is mostly a translation from matlab code, it is still work in progress and not optimized for R. 
 
